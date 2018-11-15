@@ -1,0 +1,14 @@
+*.class
+*.class
+target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+target/m2e-wtp/web-resources/META-INF/maven/com.quickcode/app/pom.properties
+target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+target/m2e-wtp/web-resources/META-INF/maven/com.quickcode/app/pom.properties
+target/m2e-wtp/web-resources/META-INF/maven/com.quickcode/app/pom.properties
+target/m2e-wtp/web-resources/META-INF/maven/com.quickcode/app/pom.properties
+target/m2e-wtp/web-resources/META-INF/maven/com.quickcode/app/pom.properties
+target/m2e-wtp/web-resources/META-INF/maven/com.quickcode/app/pom.properties
+*.class
+target/classes/com/quickcode/model/Product.class
+target/classes/com/quickcode/controller/ProductController.class
+target/classes/com/quickcode/controller/ProductController.class
